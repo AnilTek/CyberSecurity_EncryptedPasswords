@@ -1,0 +1,1 @@
+It is a code that helps users encrypt their passwords in a very simple way. It can also decrypt the password. Additionally, the code checks for the existence of a user. If the user already exists, you cannot encrypt the password, as usernames must be unique.
